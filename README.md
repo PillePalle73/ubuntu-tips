@@ -1,1 +1,1 @@
-# ubuntu-tips
+just some hints for troubleshooting ubuntu
