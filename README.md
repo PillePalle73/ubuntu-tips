@@ -22,4 +22,8 @@ sudo ln -sf /usr/lib64/sane/libsane-brother* /usr/lib/x86_64-linux-gnu/sane
 sudo ln -sf /usr/lib64/libbrcolm* /usr/lib/x86_64-linux-gnu
 sudo ln -sf /usr/lib64/libbrscandec* /usr/lib/x86_64-linux-gnu
 
+lsusb --> VendorID & PrudctId
+
+sudo usermod -aG GRUPPENNAME BENUTZERNAME 
+
 brscan-skey -l 
